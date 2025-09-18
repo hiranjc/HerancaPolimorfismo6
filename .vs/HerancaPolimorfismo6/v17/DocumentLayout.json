@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ET73\\Downloads\\projetos-c#\\HerancaPolimorfismo6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8A2313-5E27-4FDC-A61A-DB121D8A5F4B}|HerancaPolimorfismo6.csproj|c:\\users\\et73\\downloads\\projetos-c#\\herancapolimorfismo6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8A2313-5E27-4FDC-A61A-DB121D8A5F4B}|HerancaPolimorfismo6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8A2313-5E27-4FDC-A61A-DB121D8A5F4B}|HerancaPolimorfismo6.csproj|c:\\users\\et73\\downloads\\projetos-c#\\herancapolimorfismo6\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8A2313-5E27-4FDC-A61A-DB121D8A5F4B}|HerancaPolimorfismo6.csproj|solutionrelative:entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8A2313-5E27-4FDC-A61A-DB121D8A5F4B}|HerancaPolimorfismo6.csproj|c:\\users\\et73\\downloads\\projetos-c#\\herancapolimorfismo6\\entities\\individual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8A2313-5E27-4FDC-A61A-DB121D8A5F4B}|HerancaPolimorfismo6.csproj|solutionrelative:entities\\individual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8A2313-5E27-4FDC-A61A-DB121D8A5F4B}|HerancaPolimorfismo6.csproj|c:\\users\\et73\\downloads\\projetos-c#\\herancapolimorfismo6\\entities\\taxpayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8A2313-5E27-4FDC-A61A-DB121D8A5F4B}|HerancaPolimorfismo6.csproj|solutionrelative:entities\\taxpayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaxPayer.cs",
+              "DocumentMoniker": "C:\\Users\\ET73\\Downloads\\projetos-c#\\HerancaPolimorfismo6\\Entities\\TaxPayer.cs",
+              "RelativeDocumentMoniker": "Entities\\TaxPayer.cs",
+              "ToolTip": "C:\\Users\\ET73\\Downloads\\projetos-c#\\HerancaPolimorfismo6\\Entities\\TaxPayer.cs",
+              "RelativeToolTip": "Entities\\TaxPayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T18:48:50.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Individual.cs",
+              "DocumentMoniker": "C:\\Users\\ET73\\Downloads\\projetos-c#\\HerancaPolimorfismo6\\Entities\\Individual.cs",
+              "RelativeDocumentMoniker": "Entities\\Individual.cs",
+              "ToolTip": "C:\\Users\\ET73\\Downloads\\projetos-c#\\HerancaPolimorfismo6\\Entities\\Individual.cs",
+              "RelativeToolTip": "Entities\\Individual.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T18:49:10.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\ET73\\Downloads\\projetos-c#\\HerancaPolimorfismo6\\Entities\\Company.cs",
+              "RelativeDocumentMoniker": "Entities\\Company.cs",
+              "ToolTip": "C:\\Users\\ET73\\Downloads\\projetos-c#\\HerancaPolimorfismo6\\Entities\\Company.cs",
+              "RelativeToolTip": "Entities\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T18:48:59.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ET73\\Downloads\\projetos-c#\\HerancaPolimorfismo6\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ET73\\Downloads\\projetos-c#\\HerancaPolimorfismo6\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T17:05:33.594Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

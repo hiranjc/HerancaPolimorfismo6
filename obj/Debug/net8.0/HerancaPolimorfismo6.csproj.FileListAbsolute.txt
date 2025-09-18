@@ -1,0 +1,14 @@
+C:\Users\ET73\Downloads\projetos-c#\HerancaPolimorfismo6\obj\Debug\net8.0\HerancaPolimorfismo6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ET73\Downloads\projetos-c#\HerancaPolimorfismo6\obj\Debug\net8.0\HerancaPolimorfismo6.AssemblyInfoInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\HerancaPolimorfismo6\obj\Debug\net8.0\HerancaPolimorfismo6.AssemblyInfo.cs
+C:\Users\ET73\Downloads\projetos-c#\HerancaPolimorfismo6\obj\Debug\net8.0\HerancaPolimorfismo6.csproj.CoreCompileInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\HerancaPolimorfismo6\bin\Debug\net8.0\HerancaPolimorfismo6.exe
+C:\Users\ET73\Downloads\projetos-c#\HerancaPolimorfismo6\bin\Debug\net8.0\HerancaPolimorfismo6.deps.json
+C:\Users\ET73\Downloads\projetos-c#\HerancaPolimorfismo6\bin\Debug\net8.0\HerancaPolimorfismo6.runtimeconfig.json
+C:\Users\ET73\Downloads\projetos-c#\HerancaPolimorfismo6\bin\Debug\net8.0\HerancaPolimorfismo6.dll
+C:\Users\ET73\Downloads\projetos-c#\HerancaPolimorfismo6\bin\Debug\net8.0\HerancaPolimorfismo6.pdb
+C:\Users\ET73\Downloads\projetos-c#\HerancaPolimorfismo6\obj\Debug\net8.0\HerancaPolimorfismo6.dll
+C:\Users\ET73\Downloads\projetos-c#\HerancaPolimorfismo6\obj\Debug\net8.0\refint\HerancaPolimorfismo6.dll
+C:\Users\ET73\Downloads\projetos-c#\HerancaPolimorfismo6\obj\Debug\net8.0\HerancaPolimorfismo6.pdb
+C:\Users\ET73\Downloads\projetos-c#\HerancaPolimorfismo6\obj\Debug\net8.0\HerancaPolimorfismo6.genruntimeconfig.cache
+C:\Users\ET73\Downloads\projetos-c#\HerancaPolimorfismo6\obj\Debug\net8.0\ref\HerancaPolimorfismo6.dll
